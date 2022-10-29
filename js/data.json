@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": { "type": "Point", "coordinates": [55.841776, 37.140966] },
+      "properties": {
+        "balloonContent": "Школа",
+        "clusterCaption": "Школа",
+        "hintContent": "Гимназия № 4",
+        "iconCaption": "Школа"
+      },
+      "options": { "preset": "islands#blueEducationCircleIcon"}
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": { "type": "Point", "coordinates": [55.815475, 37.091404] },
+      "properties": {
+        "balloonContent": "Школа",
+        "clusterCaption": "Школа",
+        "hintContent": "Павловская школа",
+        "iconCaption": "Школа"
+      },
+      "options": { "preset": "islands#blueEducationCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": { "type": "Point", "coordinates": [55.801344, 37.126030] },
+      "properties": {
+        "balloonContent": "Школа",
+        "clusterCaption": "Школа",
+        "hintContent": "Павловская гимназия",
+        "iconCaption": "Школа"
+      },
+      "options": { "preset": "islands#blueEducationCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": { "type": "Point", "coordinates": [55.822302, 37.055789] },
+      "properties": {
+        "balloonContent": "Школа",
+        "clusterCaption": "Школа",
+        "hintContent": "Wunderpark International School",
+        "iconCaption": "Школа"
+      },
+      "options": { "preset": "islands#blueEducationCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": { "type": "Point", "coordinates": [55.840825, 37.137302] },
+      "properties": {
+        "balloonContent": "Детский сад",
+        "clusterCaption": "Детский сад",
+        "hintContent": "Детский сад №48",
+        "iconCaption": "Детский сад"
+      },
+      "options": { "preset": "islands#greenFamilyCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": { "type": "Point", "coordinates": [55.839481, 37.141130] },
+      "properties": {
+        "balloonContent": "Детский сад",
+        "clusterCaption": "Детский сад",
+        "hintContent": "Детский сад №23",
+        "iconCaption": "Детский сад"
+      },
+      "options": { "preset": "islands#greenFamilyCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": { "type": "Point", "coordinates": [55.838668, 37.144253] },
+      "properties": {
+        "balloonContent": "Детский сад",
+        "clusterCaption": "Детский сад",
+        "hintContent": "Детский сад №45",
+        "iconCaption": "Детский сад"
+      },
+      "options": { "preset": "islands#greenFamilyCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": { "type": "Point", "coordinates": [55.826215, 37.138689] },
+      "properties": {
+        "balloonContent": "Детский сад",
+        "clusterCaption": "Детский сад",
+        "hintContent": "Детский центр «Пространство»",
+        "iconCaption": "Детский сад"
+      },
+      "options": { "preset": "islands#greenFamilyCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": { "type": "Point", "coordinates": [55.589354, 37.370313] },
+      "properties": {
+        "balloonContent": "Детский сад",
+        "clusterCaption": "Детский сад",
+        "hintContent": "Детский центр «знайка»",
+        "iconCaption": "Детский сад"
+      },
+      "options": { "preset": "islands#greenFamilyCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": { "type": "Point", "coordinates": [55.838518, 37.180193] },
+      "properties": {
+        "balloonContent": "Больница",
+        "clusterCaption": "Больница",
+        "hintContent": "ГБ № 2",
+        "iconCaption": "Больница"
+      },
+      "options": { "preset": "islands#redMedicalCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": { "type": "Point", "coordinates": [55.815591, 37.069946] },
+      "properties": {
+        "balloonContent": "Кафе и рестораны",
+        "clusterCaption": "Кафе и рестораны",
+        "hintContent": "Моремания",
+        "iconCaption": "Кафе и рестораны"
+      },
+      "options": { "preset": "islands#yellowFoodCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": { "type": "Point", "coordinates": [55.809602, 37.128354] },
+      "properties": {
+        "balloonContent": "Кафе и рестораны",
+        "clusterCaption": "Кафе и рестораны",
+        "hintContent": "Чайхона №1",
+        "iconCaption": "Кафе и рестораны"
+      },
+      "options": { "preset": "islands#yellowFoodCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": { "type": "Point", "coordinates": [55.808657, 37.127871] },
+      "properties": {
+        "balloonContent": "Кафе и рестораны",
+        "clusterCaption": "Кафе и рестораны",
+        "hintContent": "Пикник",
+        "iconCaption": "Кафе и рестораны"
+      },
+      "options": { "preset": "islands#yellowFoodCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": { "type": "Point", "coordinates": [55.810445, 37.128428] },
+      "properties": {
+        "balloonContent": "Торговый центр",
+        "clusterCaption": "Торговый центр",
+        "hintContent": "Павлово подворье",
+        "iconCaption": "Торговый центр"
+      },
+      "options": { "preset": "islands#pinkShoppingCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": { "type": "Point", "coordinates": [55.811041, 37.023505] },
+      "properties": {
+        "balloonContent": "Торговый центр",
+        "clusterCaption": "Торговый центр",
+        "hintContent": "Riga Outlet Village",
+        "iconCaption": "Торговый центр"
+      },
+      "options": { "preset": "islands#pinkShoppingCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": { "type": "Point", "coordinates": [55.809114, 37.126887] },
+      "properties": {
+        "balloonContent": "Фитнес",
+        "clusterCaption": "Фитнес",
+        "hintContent": "World Class",
+        "iconCaption": "Фитнес"
+      },
+      "options": { "preset": "islands#orangeSportCircleIcon" }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": { "type": "Point", "coordinates": [55.826945, 37.144112] },
+      "properties": {
+        "balloonContent": "Фитнес",
+        "clusterCaption": "Фитнес",
+        "hintContent": "Теннис Фэмили",
+        "iconCaption": "Фитнес"
+      },
+      "options": { "preset": "islands#orangeSportCircleIcon" }
+    }
+  ]
+}
